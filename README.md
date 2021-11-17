@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing web software for a big alcohol company, and tweaking my [uptime monitoring service](https://monitive.com)
 - 🌱 I’m currently learning blockchain, crypto trading, bots, NFTs
 - 👯 I’m looking to collaborate on community and blockchain projects
-- 🤔 I’m looking for help with blockchain resources
+- 🤔 I’m looking for help upgrading to a 16" MacBook Pro M1
 - 💬 Ask me about the time when I drove 3600 km from Romania to Portugal
 - 📫 How to reach me: choose your favourite communication channel on [daniliuc.com](https://daniliuc.com)
 - ⚡ Fun fact: Sharks prefer to avoid dolphins. Dolphins are mammals that live in pods and are very clever. They know how to protect themselves. When they see an aggressive shark, they immediately attack it with the whole pod.
