@@ -1,6 +1,6 @@
-# Hi, I'm Lucian 👋
+# Hey! 👋
 
-I have about 21 years of PHP programming and 12 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
+I'm Lucian. I have about 21 years of PHP programming and 12 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
 
 - 🔭 I’m currently working on developing web software for a big alcohol company, and tweaking my [uptime monitoring service](https://monitive.com)
 - 🌱 I’m currently learning blockchain, crypto trading, bots, NFTs
@@ -76,3 +76,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+## 🛋 My preferred environment
+
+MacOS, VS Code, iTerm, Firefox, Slack, Trello, Spotify
