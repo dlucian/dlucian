@@ -2,7 +2,7 @@
 
 I'm Lucian. I have about 22 years of PHP programming and 13 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
 
-- 🔭 I’m currently working on developing web software for Textalk Media, and tweaking my [uptime monitoring service](https://monitive.com) from time to time
+- 🔭 I’m currently working on developing web software for Textalk Media, and tweaking my [uptime monitoring service](https://monitive.com)
 - 🌱 I’m currently learning Portuguese and blockchain technologies
 - 👯 I’m looking to collaborate on community and blockchain projects
 - 🤔 I’m pushing myself to get out of my comfort zone as often as possible
