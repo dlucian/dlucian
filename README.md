@@ -2,13 +2,7 @@
 
 I'm Lucian. I have about 22 years of PHP programming and 13 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
 
-- 🔭 I’m currently working on developing web software for Textalk Media, and tweaking my [uptime monitoring service](https://monitive.com)
-- 🌱 I’m currently learning Portuguese and blockchain technologies
-- 👯 I’m looking to collaborate on my [Personal Vault Project](https://dlucian.github.io/pvp/)
-- 🤔 I’m pushing myself to get out of my comfort zone as often as possible
-- 💬 Ask me about the time when I drove 3600 km from Romania to Portugal
-- 📫 How to reach me: choose your favourite communication channel on [daniliuc.com](https://daniliuc.com)
-- ⚡ Fun fact: Sharks prefer to avoid dolphins. Dolphins are mammals that live in pods and are very clever. They know how to protect themselves. When they see an aggressive shark, they immediately attack it with the whole pod.
+See what I'm doing [now](https://daniliuc.com/now/) or [get in touch with me](https://daniliuc.com/contact/).
 
 <!--
 **dlucian/dlucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
