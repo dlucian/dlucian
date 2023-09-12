@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Lucian. I have about 22 years of PHP programming and 13 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
+I'm Lucian. I have about 23 years of PHP programming and 14 years of business experience. I'm always looking to learn, grow, and improve my skills. I thrive on finding the best approach to every challenge. 
 
 See what I'm doing [now](https://daniliuc.com/now/) or [get in touch with me](https://daniliuc.com/contact/).
 
